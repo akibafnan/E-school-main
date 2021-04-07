@@ -1,2 +1,1 @@
-# E-school-main
- 
+# E-school
